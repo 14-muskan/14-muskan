@@ -1,35 +1,22 @@
+![CUE THE](https://user-images.githubusercontent.com/91135407/175304682-3ba36114-3702-435b-bff2-54b59af9587e.gif)
 
-![](https://user-images.githubusercontent.com/18560467/90992251-de862b00-e584-11ea-96df-3c2fad82807b.gif)
+*Started from **IFS** and **ELSES**, **FORS** and **WHILES**, hustled with **HEAPS** ,tried the **TREES**, now nudging  myself into the domain of **DATA** , practicing **MACHINE LEARNING**, **DEEP LEARNING** and **NATURAL LANGUAGE PROCESSING** .*
+
+I am always open to **collaborating** on projects and **innovative or disruptive** ideas. 
 
 
-![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/ana-souza-dias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-anabaiana__-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/anabaiana_/](https://www.instagram.com/anabaiana_/))](https://instagram.com/anabaiana_)
+-  Currently working as an **AI/ML Research Intern** 
+-  Proficient in **C/C++**, **Python**, **Machine Learning Algorithms**, **Statistics** and **Data Visualizations** 
+-  Equipped with a basic knowledge of **HTML**,**CSS** and **JavaScript**
+-  Reach me at : **musksharma14@gmail.com**
 
-Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
-### :star: Some fun facts!
-- I love Doctor Who, The Umbrella Academy and Star Wars;
- - I'm left handed  :point_left: 
- - This drawing of me was a gift from my friend [@blueIlustra](https://www.instagram.com/blueilustra/) :heart: 
+Connect with me on **LinkedIn**:
+<a href="www.linkedin.com/in/muskan-sharma-0a8481222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskan" height="30" width="40" /></a>
 
-##  :calendar: I'm currently  ...
 
-### :bar_chart: working:
 
- - At [Delivery Much Brasil](https://www.linkedin.com/company/delivery-much-brasil/) as Android Developer;
- - Using ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
- 
- ### :books: Learning:
- - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, CI/CD, UI testing;
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
- - how to Sew, crochet, embroider and knitt; 
- - Something new everyday! 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=14-muskan&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14-muskan&hide=TeX&layout=compact)
 
-### :mortar_board: Graduating:
-Science and Technology interdisciplinary bachelor, in UFBA (Federal University of Bahia) with the intend to pursue a Computer Science degree after!
-
-## :speech_balloon: And I also...
-Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
-
-Let's talk! 
-
-⭐️ From [Baiana](https://github.com/baiana)
+![Visitor Count](https://profile-counter.glitch.me/14-muskan/count.svg)
