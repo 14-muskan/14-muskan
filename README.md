@@ -16,9 +16,9 @@ Connect with me on **LinkedIn**:
 
 
 <h3 align="center">My Github Stats </h3>
-<p align = "center" ![Github Stats](https://github-readme-stats.vercel.app/api?username=14-muskan&count_private=true&show_icons=true&include_all_commits=true) </p>
+                  ![Github Stats](https://github-readme-stats.vercel.app/api?username=14-muskan&count_private=true&show_icons=true&include_all_commits=true) 
 
 <h3 align="center">Languages used </h3>
-<p align = "center" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14-muskan&hide=TeX&layout=compact) </p>
+                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14-muskan&hide=TeX&layout=compact) 
  
  Profile Views: ![Visitor Count](https://profile-counter.glitch.me/14-muskan/count.svg)
